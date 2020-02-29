@@ -16,3 +16,5 @@
   * [ParameterNameCheck_ESTest](https://github.com/ronysilvati/checkstyle/blob/master/evosuite/best-tests/com/puppycrawl/tools/checkstyle/checks/naming/ParameterNameCheck_ESTest.java)
   * [MethodDefHandler_ESTest](https://github.com/ronysilvati/checkstyle/blob/master/evosuite/best-tests/com/puppycrawl/tools/checkstyle/checks/indentation/MethodDefHandler_ESTest.java)
   * [CommentsIndentationCheck_ESTest](https://github.com/ronysilvati/checkstyle/blob/master/evosuite/best-tests/com/puppycrawl/tools/checkstyle/checks/indentation/CommentsIndentationCheck_ESTest.java)
+* [mybatis-3](https://github.com/ronysilvati/mybatis-3)
+  * [DataSourceException_ESTest](https://github.com/ronysilvati/mybatis-3/blob/master/evosuite-tests/org/apache/ibatis/datasource/DataSourceException_ESTest.java)
