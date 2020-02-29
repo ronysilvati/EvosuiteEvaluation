@@ -20,3 +20,4 @@
   * [DataSourceException_ESTest](https://github.com/ronysilvati/mybatis-3/blob/master/evosuite-tests/org/apache/ibatis/datasource/DataSourceException_ESTest.java)
   * [ResultMapException_ESTest](https://github.com/ronysilvati/mybatis-3/blob/master/evosuite-tests/org/apache/ibatis/executor/result/ResultMapException_ESTest.java)
   * [LogException_ESTest](https://github.com/ronysilvati/mybatis-3/blob/master/evosuite-tests/org/apache/ibatis/logging/LogException_ESTest.java)
+  * [GenericTokenParser_ESTest](https://github.com/ronysilvati/mybatis-3/blob/master/evosuite-tests/org/apache/ibatis/parsing/GenericTokenParser_ESTest.java)
