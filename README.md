@@ -21,3 +21,5 @@
   * [ResultMapException_ESTest](https://github.com/ronysilvati/mybatis-3/blob/master/evosuite-tests/org/apache/ibatis/executor/result/ResultMapException_ESTest.java)
   * [LogException_ESTest](https://github.com/ronysilvati/mybatis-3/blob/master/evosuite-tests/org/apache/ibatis/logging/LogException_ESTest.java)
   * [GenericTokenParser_ESTest](https://github.com/ronysilvati/mybatis-3/blob/master/evosuite-tests/org/apache/ibatis/parsing/GenericTokenParser_ESTest.java)
+* [fastjson](https://github.com/ronysilvati/fastjson)
+  * [BeanContext_ESTest](https://github.com/ronysilvati/fastjson/blob/master/evosuite-tests/com/alibaba/fastjson/serializer/BeanContext_ESTest.java)
