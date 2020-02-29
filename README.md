@@ -23,3 +23,4 @@
   * [GenericTokenParser_ESTest](https://github.com/ronysilvati/mybatis-3/blob/master/evosuite-tests/org/apache/ibatis/parsing/GenericTokenParser_ESTest.java)
 * [fastjson](https://github.com/ronysilvati/fastjson)
   * [BeanContext_ESTest](https://github.com/ronysilvati/fastjson/blob/master/evosuite-tests/com/alibaba/fastjson/serializer/BeanContext_ESTest.java)
+  * [ToStringSerializer_ESTest](https://github.com/ronysilvati/fastjson/blob/master/evosuite-tests/com/alibaba/fastjson/serializer/ToStringSerializer_ESTest.java)
