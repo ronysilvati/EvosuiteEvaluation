@@ -11,3 +11,4 @@
   * [MoneyModule_ESTest](https://github.com/ronysilvati/jackson-datatype-money/blob/master/evosuite/best-tests/org/zalando/jackson/datatype/money/MoneyModule_ESTest.java)
   * [MonetaryAmountSerializer_ESTest.java](https://github.com/ronysilvati/jackson-datatype-money/blob/master/evosuite/best-tests/org/zalando/jackson/datatype/money/MonetaryAmountSerializer_ESTest.java)
   * [DecimalAmountWriter_ESTest](https://github.com/ronysilvati/jackson-datatype-money/blob/master/evosuite/best-tests/org/zalando/jackson/datatype/money/DecimalAmountWriter_ESTest.java)
+  * [CurrencyUnitSerializer_ESTest](https://github.com/ronysilvati/jackson-datatype-money/blob/master/evosuite/best-tests/org/zalando/jackson/datatype/money/CurrencyUnitSerializer_ESTest.java)
