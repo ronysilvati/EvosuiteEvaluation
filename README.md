@@ -1,6 +1,13 @@
 # EvosuiteEvaluation
 
 ## Abaixo segue a lista de projetos e suas respectivas classes avaliadas 
+Alguns rótulo foram definidos para facilitar o ponto de vista. Foram eles:
+#### COMPREENSÍVEL:
+Este rótulo se refere ao quão compreensível (para o avaliador) foram os testes gerados pela ferramenta Evosuite.
+#### IMPORTANTE PARA O CONTEXTO:
+Este rótulo se refere ao quão importante (do ponto de vista do avaliador) um teste gerado pela ferramenta Evosuite, é, para a classe testada.
+#### DE FÁCIL CRIAÇÃO:
+Este rótulo informa se gerar o mesmo código de um determinado teste gerado pela ferramenta Evosuite, de forma manual, é fácil (do ponto de vista do avaliador).
 
 * [Jsonld-java](https://github.com/ronysilvati/jsonld-java)
   * [JsonLdUrl_ESTest](https://github.com/ronysilvati/jsonld-java/blob/master/core/src/test/evosuite/com/github/jsonldjava/utils/JsonLdUrl_ESTest.java)
