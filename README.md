@@ -9,3 +9,4 @@
   * [UniqueNamer_ESTest](https://github.com/ronysilvati/jsonld-java/blob/master/core/src/test/evosuite/com/github/jsonldjava/core/UniqueNamer_ESTest.java)
 * [jackson-datatype-money](https://github.com/ronysilvati/jackson-datatype-money)
   * [MoneyModule_ESTest](https://github.com/ronysilvati/jackson-datatype-money/blob/master/evosuite/best-tests/org/zalando/jackson/datatype/money/MoneyModule_ESTest.java)
+  * [MonetaryAmountSerializer_ESTest.java](https://github.com/ronysilvati/jackson-datatype-money/blob/master/evosuite/best-tests/org/zalando/jackson/datatype/money/MonetaryAmountSerializer_ESTest.java)
